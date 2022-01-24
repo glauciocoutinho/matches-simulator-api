@@ -7,12 +7,12 @@
     },
      "mandante": {
        "nome": "Brasil",
-       "forca": 5.
+       "forca": 5,
        "imagem": "TODO"
     },
      "visitante": {
        "nome": "Argentina",
-       "forca": 5.
+       "forca": 5,
        "imagem": "TODO"
     }
   }    
